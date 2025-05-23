@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Enrique García Galván!
 
-<!--
-**enriquegarga/enriquegarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Web Developer & Software Engineer | SysAdmin | Data Science Student
+- 🛠️ Tech Stack: Laravel, MySQL, Linux Servers, Livewire
+- 🚀 Active Projects: cocoin, prets, sic
+- 🎯 I'm a proactive and efficient software engineer, always exploring the latest tech trends. Currently pursuing a Master's in ICT and a degree in Project Management Engineering.
+- 🌐 Connect with me:
+  - [Instagram](https://www.instagram.com/gargaenrique/)
+  - [LinkedIn](https://www.linkedin.com/in/enrique-garcia-galvan/)
+🕹️ Fun Fact: I'm building my Home Lab!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's collaborate and innovate together!

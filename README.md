@@ -7,6 +7,6 @@
 - 🌐 Connect with me:
   - [Instagram](https://www.instagram.com/gargaenrique/)
   - [LinkedIn](https://www.linkedin.com/in/enrique-garcia-galvan/)
-🕹️ Fun Fact: I'm building my Home Lab!
+- 🕹️ Fun Fact: I'm building my Home Lab!
 
 Let's collaborate and innovate together!
